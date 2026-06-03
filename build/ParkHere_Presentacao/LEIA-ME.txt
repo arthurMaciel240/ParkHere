@@ -1,0 +1,28 @@
+======================================
+  PARKHERE - PARA APRESENTACAO
+======================================
+
+COMO ABRIR:
+------------
+1. De DUPLO CLIQUE em ABRIR.bat
+2. Aguarde 2 segundos
+3. O navegador abrira automaticamente
+4. Pronto! O app estara em http://127.0.0.1:8080
+
+NOVAS FUNCIONALIDADES:
+----------------------
+- BUSCA DE REGIOES: No mapa, digite rua, bairro ou cidade
+  e o mapa centraliza no local, mostrando estacionamentos proximos
+  
+- ROTAS: Nos cards dos estacionamentos ou na tela de detalhes,
+  clique em 'Rota' ou 'Como chegar' para ver a distancia,
+  tempo estimado e a linha da rota desenhada no mapa
+
+CONTAS DE DEMONSTRACAO:
+-----------------------
+Motorista:    joao@email.com / 123456
+Proprietario: maria@email.com / 123456
+
+======================================
+Boa apresentacao academica!
+======================================

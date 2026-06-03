@@ -1,0 +1,1 @@
+ D:\\Trabalho\ Faculdade\\park_here_app\\build\\5602fbe32e71dfbaeab74307ddd5c53c\\dart_build_result.json:  D:\\Trabalho\ Faculdade\\park_here_app\\.dart_tool\\package_config.json D:\\Trabalho\ Faculdade\\park_here_app\\pubspec.yaml D:\\flutter\\bin\\cache\\dart-sdk\\version d:\\trabalho\ faculdade\\park_here_app\\.dart_tool\\package_config.json

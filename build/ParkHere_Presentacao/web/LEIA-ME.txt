@@ -1,0 +1,30 @@
+======================================
+  PARKHERE - PARA APRESENTACAO
+======================================
+
+COMO ABRIR (NA SUA MAQUINA):
+-----------------------------
+1. De DUPLO CLIQUE em ABRIR.bat
+2. O navegador abrira automaticamente
+3. Acesse: http://127.0.0.1:8080
+
+PARA OUTRA MAQUINA:
+-------------------
+Opcao A - Instalar Python (2 minutos):
+  1. Baixe em: https://www.python.org/downloads
+  2. Na instalacao, MARQUE "Add python.exe to PATH"
+  3. Depois de instalar, execute o ABRIR.bat
+
+Opcao B - VS Code (se ja tiver instalado):
+  1. Instale a extensao "Live Server"
+  2. Clique com botao direito no index.html
+  3. Escolha "Open with Live Server"
+
+CONTAS DE DEMONSTRACAO:
+-----------------------
+Motorista:    joao@email.com / 123456
+Proprietario: maria@email.com / 123456
+
+======================================
+Boa apresentacao academica!
+======================================
